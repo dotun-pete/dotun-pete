@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science/Analytics
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on a SQL based projects, data visualization projects.
-- 📫 You can reach me via email - dotunolasogba@yahoo.com or via linkedin @ www.linkedin.com/dotunolasogba
+- 📫 You can reach me via email - dotunolasogba@yahoo.com or via LinkedIn @ www.linkedin.com/in/dotun-olasogba-9145001b0
 
 <!---
 dotun-pete/dotun-pete is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
